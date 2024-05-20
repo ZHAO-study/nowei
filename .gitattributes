@@ -1,0 +1,6 @@
+rD:pythonProjectgit filter=lfs diff=lfs merge=lfs -text
+cloneYOLO-MStrain.zip
+git[[:space:]]lfs[[:space:]]track[[:space:]]rD:pythonProjectgit filter=lfs diff=lfs merge=lfs -text
+cloneYOLO-MStrain.zip
+git[[:space:]]lfs[[:space:]]track[[:space:]]D:pythonProjectgit filter=lfs diff=lfs merge=lfs -text
+cloneYOLO-MStrain.zip filter=lfs diff=lfs merge=lfs -text
